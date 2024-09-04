@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<packageId>TimZhang.BetterWealthManagement</packageId>
+	<name>Better Wealth Management</name>
+	<author>Tim Zhang</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>
+		Hello world! This is a test mod.
+	</description>
+</ModMetaData>

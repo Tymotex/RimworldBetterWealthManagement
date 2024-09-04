@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationInsert">
+		<xpath>Defs/MainButtonDef[defName="History"]</xpath>
+		<value>
+			<MainButtonDef>
+				<defName>Wealth</defName>
+				<label>wealth</label>
+				<description>View your colony's wealth.</description>
+				<tabWindowClass>BetterWealthManagement.WealthWindow</tabWindowClass>
+				<order>78</order>
+				<defaultHotKey>F10</defaultHotKey>
+				<validWithoutMap>true</validWithoutMap>
+				<minimized>True</minimized>
+			</MainButtonDef>
+		</value>
+	</Operation>
+</Patch>
